@@ -11,8 +11,14 @@ public class StringManipulations {
     //completely replaces a string, basically makes string mutable
 
     stringBuilder.append("_part2");
-    System.out.println(stringBuilder);
     //String Builder instead of + when large # of concats
+
+    String exampleString = "this_is_an_example";
+    exampleString.contains("example");
+    //checks if the string has a substring in it
+
+
+
 
   }
 
