@@ -16,6 +16,8 @@ public class StringManipulations {
     String exampleString = "this_is_an_example";
     exampleString.contains("example");
     //checks if the string has a substring in it
+    exampleString.endsWith("example");
+    //checks suffix of string
 
 
 
